@@ -1,0 +1,14 @@
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/bin/Debug/net8.0/httpCS
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/bin/Debug/net8.0/httpCS.deps.json
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/bin/Debug/net8.0/httpCS.runtimeconfig.json
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/bin/Debug/net8.0/httpCS.dll
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/bin/Debug/net8.0/httpCS.pdb
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/obj/Debug/net8.0/httpCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/obj/Debug/net8.0/httpCS.AssemblyInfoInputs.cache
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/obj/Debug/net8.0/httpCS.AssemblyInfo.cs
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/obj/Debug/net8.0/httpCS.csproj.CoreCompileInputs.cache
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/obj/Debug/net8.0/httpCS.dll
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/obj/Debug/net8.0/refint/httpCS.dll
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/obj/Debug/net8.0/httpCS.pdb
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/obj/Debug/net8.0/httpCS.genruntimeconfig.cache
+/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/obj/Debug/net8.0/ref/httpCS.dll

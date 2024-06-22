@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6YEcEL61fo=",
+  "success": true,
+  "projectFilePath": "/home/gerardo/Documents/projects/CSharp/httpCS/httpCS/httpCS.csproj",
+  "expectedPackageFiles": [
+    "/home/gerardo/.nuget/packages/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/gerardo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/gerardo/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
